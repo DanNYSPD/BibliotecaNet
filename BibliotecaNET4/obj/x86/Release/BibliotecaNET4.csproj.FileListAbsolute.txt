@@ -1,0 +1,14 @@
+C:\Users\daniel\documents\visual studio 2015\Projects\BibliotecaNET4\BibliotecaNET4\bin\x86\Release\BibliotecaNET4.exe.config
+C:\Users\daniel\documents\visual studio 2015\Projects\BibliotecaNET4\BibliotecaNET4\bin\x86\Release\BibliotecaNET4.exe
+C:\Users\daniel\documents\visual studio 2015\Projects\BibliotecaNET4\BibliotecaNET4\bin\x86\Release\BibliotecaNET4.pdb
+C:\Users\daniel\documents\visual studio 2015\Projects\BibliotecaNET4\BibliotecaNET4\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\daniel\documents\visual studio 2015\Projects\BibliotecaNET4\BibliotecaNET4\bin\x86\Release\MetroFramework.dll
+C:\Users\daniel\documents\visual studio 2015\Projects\BibliotecaNET4\BibliotecaNET4\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\daniel\documents\visual studio 2015\Projects\BibliotecaNET4\BibliotecaNET4\obj\x86\Release\BibliotecaNET4.Form1.resources
+C:\Users\daniel\documents\visual studio 2015\Projects\BibliotecaNET4\BibliotecaNET4\obj\x86\Release\BibliotecaNET4.Properties.Resources.resources
+C:\Users\daniel\documents\visual studio 2015\Projects\BibliotecaNET4\BibliotecaNET4\obj\x86\Release\BibliotecaNET4.vista.Ayuda.resources
+C:\Users\daniel\documents\visual studio 2015\Projects\BibliotecaNET4\BibliotecaNET4\obj\x86\Release\BibliotecaNET4.vista.Acercade.resources
+C:\Users\daniel\documents\visual studio 2015\Projects\BibliotecaNET4\BibliotecaNET4\obj\x86\Release\BibliotecaNET4.csproj.GenerateResource.Cache
+C:\Users\daniel\documents\visual studio 2015\Projects\BibliotecaNET4\BibliotecaNET4\obj\x86\Release\BibliotecaNET4.exe
+C:\Users\daniel\documents\visual studio 2015\Projects\BibliotecaNET4\BibliotecaNET4\obj\x86\Release\BibliotecaNET4.pdb
+C:\Users\daniel\documents\visual studio 2015\Projects\BibliotecaNET4\BibliotecaNET4\obj\x86\Release\BibliotecaNET4.csprojResolveAssemblyReference.cache

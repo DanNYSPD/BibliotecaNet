@@ -1,0 +1,5 @@
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\BibliotecaNET4\Lin.nyspd.core\bin\Debug\Lin.nyspd.core.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\BibliotecaNET4\Lin.nyspd.core\bin\Debug\Lin.nyspd.core.pdb
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\BibliotecaNET4\Lin.nyspd.core\obj\Debug\Lin.nyspd.core.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\BibliotecaNET4\Lin.nyspd.core\obj\Debug\Lin.nyspd.core.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\BibliotecaNET4\Lin.nyspd.core\obj\Debug\Lin.nyspd.core.pdb
