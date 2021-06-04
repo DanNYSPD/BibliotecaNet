@@ -2,6 +2,8 @@
 ## Introduction
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/DanNYSPD/BibliotecaNet/blob/master/README.es.md)
 
+
+
 This application was developed as part of social service (volunteering) for the town of Orizaba in the state of Veracruz in Mexico.
 
 
@@ -9,7 +11,7 @@ Reduced the search time for people of the city of Orizaba when they enter into t
 
 To simplify the insertion of more records for the library staff as well as to improve the portability when they change equipment this application uses an excel sheet as a source of data for the query process.
 
-
+![alt text](docsResources/welcome.png)
 
 ## Usage
 ### Requirements 
